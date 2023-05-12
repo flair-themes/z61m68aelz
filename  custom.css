@@ -1,7 +1,7 @@
 .yotpo-loyalty-page-container svg {
-    height: auto;
-    left: auto;
-    position: relative;
-    top: auto;
-    width: auto;
+    height: auto !important;
+    left: auto !important;
+    position: relative !important;
+    top: auto !important;
+    width: auto !important;
 }
